@@ -34,7 +34,8 @@
 |    --- ...
 --- app.js                                  ---项目入口及程序启动文件
 --- package.json                            ---包描述文件及开发者信息
---- README.md                               ---项目说明                              
+--- README.md                               ---项目说明
+--- exam_student.sql                        ---mysql数据库导出的备份文件                             
 ```
 
 ### 启动项目
